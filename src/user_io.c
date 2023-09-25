@@ -1,15 +1,15 @@
 #include "stdio.h"
 
-#define ILLEGAL_CHAR ('C')
+#define ILLEGAL_CHAR ('4')
 
-void get_input_string(char* input)
+void get_input_string(char* str)
 {
-    sscanf(input, "%s");
+    scanf("%s", str);
 }
 
-void get_input_int(int* input)
+void get_input_int(int* p_input)
 {
-    sscanf(&input, "%d");
+    scanf("%d", p_input);
 }
 
 void send_output(char* output)
