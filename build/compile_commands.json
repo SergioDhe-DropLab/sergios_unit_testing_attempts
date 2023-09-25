@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/sergio/projects/sergios_unit_testing_attempts/build",
-  "command": "/usr/bin/gcc  -I/home/sergio/projects/sergios_unit_testing_attempts/src -g -o CMakeFiles/unit_tester.dir/main.c.o -c /home/sergio/projects/sergios_unit_testing_attempts/main.c",
-  "file": "/home/sergio/projects/sergios_unit_testing_attempts/main.c"
-}
-]
